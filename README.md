@@ -3,9 +3,9 @@
   <br>
   <a href="https://github.com/JordanSantiagoYT/FNF-JS-Engine"><img src="/art/iconOG.png" alt="JSengine" width="150"></a>
   <br>
-  <b>Daniel Engine</b>
+  <b>JS Engine</b>
   <br>
-  <i>(made with Jordan Santiago Engine)</i>
+  <i>(Jordan Santiago Engine)</i>
   <br>
 </h1>
 <h3 align="center">
